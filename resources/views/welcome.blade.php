@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <title>Counter App</title>
+    <title>Todo List</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,7 +12,8 @@
 </head>
   <body>
       
-<livewire:counter />
+<livewire:todo-list />
+
 
     @livewireScripts
     <!-- Optional JavaScript -->
